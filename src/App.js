@@ -5,7 +5,7 @@ function App() {
   return (
    
     <>
-    <Navbar title = "textEdit"/>
+    <Navbar title = "Text Edit"/>
     <div className="container">
     <TextForm heading = "Enter your text here."/>
     </div>
